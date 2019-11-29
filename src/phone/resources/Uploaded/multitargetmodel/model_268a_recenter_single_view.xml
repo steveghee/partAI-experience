@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="model_268a_recenter_360"/>
+
+</Tracking>
+
+<Assembly name="model_268a_recenter_360s_assembly" assemblyId="2f9672046caa4705bf2c7dc3b3398bc1">
+<Part name="model_268a_recenter_360" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00210877 -0.00717702 0.325789" rotation="AD: 0.9999999999371907 -0.0006657745559703727 0.0168500062510698 184.525" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

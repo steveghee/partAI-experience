@@ -1,0 +1,75 @@
+{
+  "attributes": {
+    "namespace": "app.mdl"
+  },
+  "children": [
+    {
+      "attributes": {
+        "name": "pp-1901231417sq.portal.ptc.io_FTLDP.Europe.Extractor",
+        "twx-entity-type": "Things",
+        "twx-entity-name": "pp-1901231417sq.portal.ptc.io_FTLDP.Europe.Extractor"
+      },
+      "name": "twx-model",
+      "children": [
+        {
+          "attributes": {
+            "name": "WindchillPartQueryJSON",
+            "id": "WindchillPartQueryJSON"
+          },
+          "name": "twx-model-service"
+        }
+      ]
+    },
+    {
+      "attributes": {
+        "id": "vumark",
+        "isbound": "false",
+        "isdeletable": "false",
+        "name": "ThingMark",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "template",
+        "isbound": "false",
+        "isdeletable": "false",
+        "name": "Thing Template",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "thing",
+        "isbound": "false",
+        "isdeletable": "false",
+        "name": "Thing",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "cart",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "cart",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "targets",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "targets",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    }
+  ],
+  "name": "twx-app-mdl"
+}

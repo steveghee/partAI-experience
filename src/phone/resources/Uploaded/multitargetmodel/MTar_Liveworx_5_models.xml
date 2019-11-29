@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="model_268a_recenter_single_view"/>
+<ModelTarget name="model_63c4_recenter_single_view"/>
+<ModelTarget name="model_8c72_recenter_single_view"/>
+<ModelTarget name="model_a2b7_recenter_single_view"/>
+<ModelTarget name="model_c44e_recenter_single_view"/>
+
+</Tracking>
+
+<Assembly name="model_268a_recenter_single_views_assembly" assemblyId="0e1bb55d4ae54f37bc54d806c5f3d136">
+<Part name="model_268a_recenter_single_view" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00666583 -0.00950787 0.3448" rotation="AD: 0.9999999999136299 -0.0007809516623160967 0.01685000625067349 185.306" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="model_63c4_recenter_single_views_assembly" assemblyId="2b8749bf4d8147ca8b7e6fd79c95e351">
+<Part name="model_63c4_recenter_single_view" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.014522 0.00298932 0.399007" rotation="AD: -0.9002185625401274 -0.8646379173523191 -0.9154921410601685 116.753" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="model_8c72_recenter_single_views_assembly" assemblyId="d38627c2a56a4c9cb25cbfbf6434e898">
+<Part name="model_8c72_recenter_single_view" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0088895 -0.0263578 0.403033" rotation="AD: 0.9845947758559074 -0.9845720032691619 -0.2554660014922352 200.452" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="model_a2b7_recenter_single_views_assembly" assemblyId="e910e69a074b42b0b83fb39c5c1bebaf">
+<Part name="model_a2b7_recenter_single_view" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-8.62405e-16 4.9879e-07 0.291858" rotation="AD: 0.9994195219546964 -0.047998376034172 1.0092913298358372 183.831" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="model_c44e_recenter_single_views_assembly" assemblyId="433289711f2e48ef9c409704059dfbad">
+<Part name="model_c44e_recenter_single_view" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0265975 -0.016456 0.358876" rotation="AD: 0.9999999995648785 0.0012755558686701894 -0.02316831942882305 186.301" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase name="MTar_Liveworx_5_models" />
+</QCARConfig>

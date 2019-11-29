@@ -1,0 +1,191 @@
+[2019-04-29T10:58:44.676Z] debug: [twx-studio:upgrade:TrainedModelTarget] Begin upgrade of project TrainedModelTarget
+[2019-04-29T10:58:44.677Z] info: [twx-studio:upgrade:TrainedModelTarget] Upgrading project TrainedModelTarget C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget from 1.37.1544 to 8.4.2.4361 (1.37.1544)
+[2019-04-29T10:58:44.706Z] debug: [twx-studio:upgrade:TrainedModelTarget] Make sure there are not any stale files lying around
+[2019-04-29T10:58:44.708Z] debug: [twx-studio:upgrade:TrainedModelTarget] Create .gitignore for project dir
+[2019-04-29T10:58:44.708Z] debug: [twx-studio:upgrade:TrainedModelTarget] Copying /src/**/* to project, overwrite=false
+[2019-04-29T10:58:44.709Z] debug: [twx-studio:upgrade:TrainedModelTarget] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-04-29T10:58:44.764Z] debug: [twx-studio:upgrade:TrainedModelTarget] Copy of project files complete
+[2019-04-29T10:58:44.764Z] debug: [twx-studio:upgrade:TrainedModelTarget] Updating version to  8.4.2.4361 (1.37.1544)
+[2019-04-29T10:58:44.764Z] debug: [twx-studio:upgrade:TrainedModelTarget] onupgrade sucessful, now build the project
+[2019-04-29T10:58:44.764Z] debug: [twx-studio:upgrade:TrainedModelTarget] BEGIN buildApp TrainedModelTarget_1556535524764
+[2019-04-29T10:58:44.764Z] debug: [twx-studio:upgrade:TrainedModelTarget] write settings
+[2019-04-29T10:58:44.765Z] debug: [twx-studio:upgrade:TrainedModelTarget] copy runtime extensions
+[2019-04-29T10:58:45.410Z] debug: [twx-studio:upgrade:TrainedModelTarget] packageThemeSet
+[2019-04-29T10:58:46.464Z] debug: [twx-studio:upgrade:TrainedModelTarget] onBuild
+[2019-04-29T10:58:46.464Z] info: [twx-studio:upgrade:TrainedModelTarget] Building ves-ar-extension app: TrainedModelTarget
+[2019-04-29T10:58:46.479Z] debug: [twx-studio:upgrade:TrainedModelTarget] pathDir C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget
+[2019-04-29T10:58:46.479Z] debug: [twx-studio:upgrade:TrainedModelTarget] scaffoldDir C:\Users\sbruegel\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-04-29T10:58:46.479Z] debug: [twx-studio:upgrade:TrainedModelTarget] copySrc
+[2019-04-29T10:58:46.608Z] debug: [twx-studio:upgrade:TrainedModelTarget] buildApp
+[2019-04-29T10:58:46.753Z] debug: [twx-studio:upgrade:TrainedModelTarget] END buildApp TrainedModelTarget_1556535524764
+[2019-04-29T10:58:46.753Z] debug: [twx-studio:upgrade:TrainedModelTarget] Build succeeded.
+[2019-05-27T09:00:54.837Z] debug: [twx-studio:upgrade:TrainedModelTarget] Begin upgrade of project TrainedModelTarget
+[2019-05-27T09:00:54.839Z] info: [twx-studio:upgrade:TrainedModelTarget] Upgrading project TrainedModelTarget C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget from 1.37.1544 to 8.4.3.4381 (1.38.1553)
+[2019-05-27T09:00:54.860Z] debug: [twx-studio:upgrade:TrainedModelTarget] Make sure there are not any stale files lying around
+[2019-05-27T09:00:54.860Z] debug: [twx-studio:upgrade:TrainedModelTarget] Removing  C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget/css/
+[2019-05-27T09:00:54.865Z] debug: [twx-studio:upgrade:TrainedModelTarget] Removing  C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget/dist/
+[2019-05-27T09:00:55.038Z] debug: [twx-studio:upgrade:TrainedModelTarget] Removing  C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget/extensions/
+[2019-05-27T09:00:55.153Z] debug: [twx-studio:upgrade:TrainedModelTarget] Removing  C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget/src/phone/resources/Default/
+[2019-05-27T09:00:55.164Z] debug: [twx-studio:upgrade:TrainedModelTarget] Removing  C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget/theme/
+[2019-05-27T09:00:55.168Z] debug: [twx-studio:upgrade:TrainedModelTarget] Copying /src/**/* to project, overwrite=false
+[2019-05-27T09:00:55.171Z] debug: [twx-studio:upgrade:TrainedModelTarget] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-05-27T09:00:55.239Z] debug: [twx-studio:upgrade:TrainedModelTarget] Copy of project files complete
+[2019-05-27T09:00:55.239Z] debug: [twx-studio:upgrade:TrainedModelTarget] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-05-27T09:00:55.239Z] debug: [twx-studio:upgrade:TrainedModelTarget] onupgrade sucessful, now build the project
+[2019-05-27T09:00:55.240Z] debug: [twx-studio:upgrade:TrainedModelTarget] BEGIN buildApp TrainedModelTarget_1558947655239
+[2019-05-27T09:00:55.240Z] debug: [twx-studio:upgrade:TrainedModelTarget] write settings
+[2019-05-27T09:00:55.240Z] debug: [twx-studio:upgrade:TrainedModelTarget] copy runtime extensions
+[2019-05-27T09:00:55.933Z] debug: [twx-studio:upgrade:TrainedModelTarget] packageThemeSet
+[2019-05-27T09:00:56.838Z] debug: [twx-studio:upgrade:TrainedModelTarget] onBuild
+[2019-05-27T09:00:56.838Z] info: [twx-studio:upgrade:TrainedModelTarget] Building ves-ar-extension app: TrainedModelTarget
+[2019-05-27T09:00:56.865Z] debug: [twx-studio:upgrade:TrainedModelTarget] pathDir C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget
+[2019-05-27T09:00:56.865Z] debug: [twx-studio:upgrade:TrainedModelTarget] scaffoldDir C:\Users\sbruegel\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-05-27T09:00:56.865Z] debug: [twx-studio:upgrade:TrainedModelTarget] copySrc
+[2019-05-27T09:00:57.042Z] debug: [twx-studio:upgrade:TrainedModelTarget] buildApp
+[2019-05-27T09:00:57.504Z] debug: [twx-studio:upgrade:TrainedModelTarget] END buildApp TrainedModelTarget_1558947655239
+[2019-05-27T09:00:57.504Z] debug: [twx-studio:upgrade:TrainedModelTarget] Build succeeded.
+
+2019-06-06T07:44:54.141Z: Project "TrainedModelTarget" saved as new project "TrainedModelTarget-NewDataset"[2019-06-06T07:44:55.905Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Begin upgrade of project TrainedModelTarget-NewDataset
+[2019-06-06T07:44:55.907Z] info: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Upgrading project TrainedModelTarget-NewDataset C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget-NewDataset from 1.38.1553 to 8.4.3.4381 (1.38.1553)
+[2019-06-06T07:44:55.932Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Make sure there are not any stale files lying around
+[2019-06-06T07:44:55.932Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing  C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget-NewDataset/src/phone/resources/Default/
+[2019-06-06T07:44:55.948Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Create .gitignore for project dir
+[2019-06-06T07:44:55.948Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copying /src/**/* to project, overwrite=false
+[2019-06-06T07:44:55.950Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-06T07:44:56.018Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copy of project files complete
+[2019-06-06T07:44:56.018Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-06T07:44:56.018Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] onupgrade sucessful, now build the project
+[2019-06-06T07:44:56.018Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] BEGIN buildApp TrainedModelTarget-NewDataset_1559807096018
+[2019-06-06T07:44:56.018Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] write settings
+[2019-06-06T07:44:56.019Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] copy runtime extensions
+[2019-06-06T07:44:56.828Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] packageThemeSet
+[2019-06-06T07:44:57.678Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] onBuild
+[2019-06-06T07:44:57.679Z] info: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Building ves-ar-extension app: TrainedModelTarget-NewDataset
+[2019-06-06T07:44:57.709Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] pathDir C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget-NewDataset
+[2019-06-06T07:44:57.709Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] scaffoldDir C:\Users\sbruegel\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-06T07:44:57.709Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] copySrc
+[2019-06-06T07:44:57.881Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] buildApp
+[2019-06-06T07:44:58.463Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] END buildApp TrainedModelTarget-NewDataset_1559807096018
+[2019-06-06T07:44:58.463Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Build succeeded.
+[2019-06-07T07:57:41.035Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Begin upgrade of project TrainedModelTarget-NewDataset
+[2019-06-07T07:57:41.036Z] info: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Upgrading project TrainedModelTarget-NewDataset C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget-NewDataset from 1.38.1553 to 8.4.4.4392 (1.39.1560)
+[2019-06-07T07:57:41.039Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Make sure there are not any stale files lying around
+[2019-06-07T07:57:41.040Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing  C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget-NewDataset/css/
+[2019-06-07T07:57:41.044Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing  C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget-NewDataset/dist/
+[2019-06-07T07:57:41.286Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing  C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget-NewDataset/extensions/
+[2019-06-07T07:57:41.414Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing  C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget-NewDataset/src/phone/resources/Default/
+[2019-06-07T07:57:41.431Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing  C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget-NewDataset/theme/
+[2019-06-07T07:57:41.435Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copying /src/**/* to project, overwrite=false
+[2019-06-07T07:57:41.436Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-07T07:57:41.480Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copy of project files complete
+[2019-06-07T07:57:41.480Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Updating version to  8.4.4.4392 (1.39.1560)
+[2019-06-07T07:57:41.480Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] onupgrade sucessful, now build the project
+[2019-06-07T07:57:41.480Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] BEGIN buildApp TrainedModelTarget-NewDataset_1559894261480
+[2019-06-07T07:57:41.480Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] write settings
+[2019-06-07T07:57:41.481Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] copy runtime extensions
+[2019-06-07T07:57:42.074Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] packageThemeSet
+[2019-06-07T07:57:42.962Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] onBuild
+[2019-06-07T07:57:42.962Z] info: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Building ves-ar-extension app: TrainedModelTarget-NewDataset
+[2019-06-07T07:57:42.971Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] pathDir C:\Users\sbruegel\Documents\VuforiaStudio\Projects\TrainedModelTarget-NewDataset
+[2019-06-07T07:57:42.971Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] scaffoldDir C:\Users\sbruegel\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-07T07:57:42.971Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] copySrc
+[2019-06-07T07:57:43.402Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] buildApp
+[2019-06-07T07:57:43.928Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] END buildApp TrainedModelTarget-NewDataset_1559894261480
+[2019-06-07T07:57:43.928Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Build succeeded.
+[2019-06-09T19:14:56.143Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Begin upgrade of project TrainedModelTarget-NewDataset
+[2019-06-09T19:14:56.144Z] info: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Upgrading project TrainedModelTarget-NewDataset C:\Users\sghee\Documents\VuforiaStudio\Projects\TrainedModelTarget-NewDataset from 1.39.1560 to 8.4.3.4381 (1.38.1553)
+[2019-06-09T19:14:56.149Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Make sure there are not any stale files lying around
+[2019-06-09T19:14:56.150Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing  C:\Users\sghee\Documents\VuforiaStudio\Projects\TrainedModelTarget-NewDataset/src/phone/resources/Default/
+[2019-06-09T19:14:56.166Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Create .gitignore for project dir
+[2019-06-09T19:14:56.167Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copying /src/**/* to project, overwrite=false
+[2019-06-09T19:14:56.168Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-06-09T19:14:56.310Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copy of project files complete
+[2019-06-09T19:14:56.311Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Updating version to  8.4.3.4381 (1.38.1553)
+[2019-06-09T19:14:56.311Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] onupgrade sucessful, now build the project
+[2019-06-09T19:14:56.311Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] BEGIN buildApp TrainedModelTarget-NewDataset_1560107696311
+[2019-06-09T19:14:56.311Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] write settings
+[2019-06-09T19:14:56.311Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] copy runtime extensions
+[2019-06-09T19:14:56.668Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] packageThemeSet
+[2019-06-09T19:14:57.755Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] onBuild
+[2019-06-09T19:14:57.756Z] info: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Building ves-ar-extension app: TrainedModelTarget-NewDataset
+[2019-06-09T19:14:57.775Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] pathDir C:\Users\sghee\Documents\VuforiaStudio\Projects\TrainedModelTarget-NewDataset
+[2019-06-09T19:14:57.776Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] scaffoldDir C:\Users\sghee\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+[2019-06-09T19:14:57.776Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] copySrc
+[2019-06-09T19:14:58.713Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] buildApp
+[2019-06-09T19:14:59.144Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] END buildApp TrainedModelTarget-NewDataset_1560107696311
+[2019-06-09T19:14:59.144Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Build succeeded.
+[2019-09-03T10:18:46.292Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Begin upgrade of project
+[2019-09-03T10:18:46.293Z] info: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Upgrading project
+[2019-09-03T10:18:46.298Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Make sure there are not any stale files lying around
+[2019-09-03T10:18:46.298Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-09-03T10:18:46.306Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-09-03T10:18:46.603Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-09-03T10:18:46.694Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-09-03T10:18:46.727Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-09-03T10:18:46.760Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copying /src/**/* to project, overwrite=false
+[2019-09-03T10:18:46.771Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-09-03T10:18:47.003Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copy of project files complete
+[2019-09-03T10:18:47.004Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Updating version to 
+[2019-09-03T10:18:47.005Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] onupgrade sucessful, now build the project
+[2019-09-03T10:18:47.005Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] BEGIN buildApp
+[2019-09-03T10:18:47.005Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] write settings
+[2019-09-03T10:18:47.006Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] copy runtime extensions
+[2019-09-03T10:18:48.266Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] packageThemeSet
+[2019-09-03T10:18:50.071Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] onBuild
+[2019-09-03T10:18:50.071Z] info: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Building ves-ar-extension app:
+[2019-09-03T10:18:50.095Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] pathDir
+[2019-09-03T10:18:50.095Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] scaffoldDir
+[2019-09-03T10:18:50.095Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] copySrc
+[2019-09-03T10:18:51.690Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] buildApp
+[2019-09-03T10:18:52.348Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] END buildApp
+[2019-09-03T10:18:52.348Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Build succeeded.
+[2019-09-25T18:39:57.333Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Begin upgrade of project
+[2019-09-25T18:39:57.338Z] info: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Upgrading project
+[2019-09-25T18:39:57.407Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Make sure there are not any stale files lying around
+[2019-09-25T18:39:57.407Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-09-25T18:39:57.415Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-09-25T18:39:57.611Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-09-25T18:39:57.673Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-09-25T18:39:57.704Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-09-25T18:39:57.714Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copying /src/**/* to project, overwrite=false
+[2019-09-25T18:39:57.720Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-09-25T18:39:57.914Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copy of project files complete
+[2019-09-25T18:39:57.915Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Updating version to 
+[2019-09-25T18:39:57.915Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] onupgrade sucessful, now build the project
+[2019-09-25T18:39:57.915Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] BEGIN buildApp
+[2019-09-25T18:39:57.915Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] write settings
+[2019-09-25T18:39:57.916Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] copy runtime extensions
+[2019-09-25T18:39:58.603Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] packageThemeSet
+[2019-09-25T18:40:00.311Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] onBuild
+[2019-09-25T18:40:00.312Z] info: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Building ves-ar-extension app:
+[2019-09-25T18:40:00.340Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] pathDir
+[2019-09-25T18:40:00.340Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] scaffoldDir
+[2019-09-25T18:40:00.340Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] copySrc
+[2019-09-25T18:40:02.432Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] buildApp
+[2019-09-25T18:40:03.202Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] END buildApp
+[2019-09-25T18:40:03.203Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Build succeeded.
+[2019-11-17T17:22:16.752Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Begin upgrade of project
+[2019-11-17T17:22:16.753Z] info: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Upgrading project
+[2019-11-17T17:22:16.762Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Make sure there are not any stale files lying around
+[2019-11-17T17:22:16.762Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-11-17T17:22:16.774Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-11-17T17:22:17.510Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-11-17T17:22:17.910Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-11-17T17:22:18.016Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Removing 
+[2019-11-17T17:22:18.028Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copying /src/**/* to project, overwrite=false
+[2019-11-17T17:22:18.034Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-11-17T17:22:18.863Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Copy of project files complete
+[2019-11-17T17:22:18.864Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Updating version to 
+[2019-11-17T17:22:18.864Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] onupgrade sucessful, now build the project
+[2019-11-17T17:22:18.864Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] BEGIN buildApp
+[2019-11-17T17:22:18.864Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] write settings
+[2019-11-17T17:22:18.865Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] copy runtime extensions
+[2019-11-17T17:22:24.248Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] packageThemeSet
+[2019-11-17T17:22:27.608Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] onBuild
+[2019-11-17T17:22:27.609Z] info: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Building ves-ar-extension app:
+[2019-11-17T17:22:27.663Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] pathDir
+[2019-11-17T17:22:27.663Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] scaffoldDir
+[2019-11-17T17:22:27.663Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] copySrc
+[2019-11-17T17:22:32.357Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] buildApp
+[2019-11-17T17:22:34.328Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] END buildApp
+[2019-11-17T17:22:34.328Z] debug: [twx-studio:upgrade:TrainedModelTarget-NewDataset] Build succeeded.
